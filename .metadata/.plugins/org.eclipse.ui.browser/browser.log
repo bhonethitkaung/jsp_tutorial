@@ -1,0 +1,93 @@
+
+Jul 03, 2020 13:13:08.17 NEW SESSION
+Jul 03, 2020 13:13:08.17 
+Jul 03, 2020 13:13:08.18 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Jul 03, 2020 13:13:08.18 
+Jul 03, 2020 13:13:08.22 
+Jul 03, 2020 13:13:08.23 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jul 03, 2020 13:13:08.24 
+Jul 03, 2020 13:58:19.74 
+Jul 03, 2020 13:58:19.75 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Jul 03, 2020 13:58:19.75 
+Jul 03, 2020 13:58:19.79 
+Jul 03, 2020 13:58:19.80 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jul 03, 2020 13:58:19.81 
+
+Jul 03, 2020 15:53:27.49 NEW SESSION
+Jul 03, 2020 15:53:27.49 
+Jul 03, 2020 15:53:27.50 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Jul 03, 2020 15:53:27.51 
+Jul 03, 2020 15:53:27.53 
+Jul 03, 2020 15:53:27.54 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jul 03, 2020 15:53:27.54 
+Jul 03, 2020 16:23:43.64 
+Jul 03, 2020 16:23:43.65 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Jul 03, 2020 16:23:43.66 
+Jul 03, 2020 16:23:43.68 
+Jul 03, 2020 16:23:43.70 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jul 03, 2020 16:23:43.71 
+
+Jul 03, 2020 20:31:32.87 NEW SESSION
+Jul 03, 2020 20:31:32.87 
+Jul 03, 2020 20:31:32.89 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Jul 03, 2020 20:31:32.89 
+Jul 03, 2020 20:31:32.91 
+Jul 03, 2020 20:31:32.92 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jul 03, 2020 20:31:32.93 
+Jul 03, 2020 21:14:34.27 
+Jul 03, 2020 21:14:34.28 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Jul 03, 2020 21:14:34.29 
+Jul 03, 2020 21:14:34.30 
+Jul 03, 2020 21:14:34.31 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jul 03, 2020 21:14:34.32 
+
+Jul 03, 2020 23:45:09.54 NEW SESSION
+Jul 03, 2020 23:45:09.54 [GFX1-]: GFX: AL_D3D11 abandoned sync
+Jul 03, 2020 23:45:09.55 [GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+Jul 03, 2020 23:45:09.61 [GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+Jul 03, 2020 23:45:09.66 [GFX1-]: GFX: RenderThread detected a device reset in WaitForGPU
+Jul 03, 2020 23:45:09.78 [GFX1-]: Failed to make render context current during destroying.
+Jul 03, 2020 23:45:10.60 [GFX1-]: [D3D11] create vertex buffer failed: 0x887a0005
+Jul 03, 2020 23:45:10.61 [GFX1-]: [D3D11] failed to get compositor device attachments
+Jul 03, 2020 23:45:10.61 [GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_VERTEX_BUFFER
+Jul 03, 2020 23:45:10.62 [GFX1-]: Compositors might be mixed (5,1)
+Jul 03, 2020 23:45:10.63 [GFX1-]: [D3D11] failed to get compositor device attachments
+Jul 03, 2020 23:45:10.64 [GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_VERTEX_BUFFER
+Jul 03, 2020 23:45:10.76 [GFX1-]: [D3D11] failed to get compositor device attachments
+Jul 03, 2020 23:45:10.77 [GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_VERTEX_BUFFER
+Jul 04, 2020 24:05:11.46 [GFX1-]: Could not get a DXGI adapter
+Jul 04, 2020 24:25:50.52 [GFX1-]: [D3D11] failed to get compositor device attachments
+Jul 04, 2020 24:25:50.53 [GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_VERTEX_BUFFER
+Jul 04, 2020 24:25:51.54 [GFX1-]: [D3D11] failed to get compositor device attachments
+Jul 04, 2020 24:25:51.54 [GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_VERTEX_BUFFER
+Jul 04, 2020 24:26:04.07 
+Jul 04, 2020 24:26:04.09 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Jul 04, 2020 24:26:04.10 
+Jul 04, 2020 24:26:04.11 
+Jul 04, 2020 24:26:04.11 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jul 04, 2020 24:26:04.12 
+Jul 04, 2020 24:34:01.64 
+Jul 04, 2020 24:34:01.66 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Jul 04, 2020 24:34:01.67 
+Jul 04, 2020 24:34:01.69 
+Jul 04, 2020 24:34:01.70 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jul 04, 2020 24:34:01.71 
+
+Jul 11, 2020 17:22:03.91 NEW SESSION
+Jul 11, 2020 17:22:03.91 
+Jul 11, 2020 17:22:03.92 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Jul 11, 2020 17:22:03.93 
+Jul 11, 2020 17:22:03.95 
+Jul 11, 2020 17:22:03.96 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jul 11, 2020 17:22:03.97 
+
+Jul 14, 2020 18:42:18.53 NEW SESSION
+Jul 14, 2020 18:42:18.53 
+Jul 14, 2020 18:42:18.55 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jul 14, 2020 18:42:18.56 
+Jul 14, 2020 18:49:59.71 
+Jul 14, 2020 18:49:59.72 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Jul 14, 2020 18:49:59.73 
+Jul 14, 2020 18:49:59.76 
+Jul 14, 2020 18:49:59.77 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Jul 14, 2020 18:49:59.78 

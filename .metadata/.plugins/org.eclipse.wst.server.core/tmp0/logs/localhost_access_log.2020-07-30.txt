@@ -1,0 +1,9 @@
+127.0.0.1 - - [30/Jul/2020:13:45:58 +0630] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [30/Jul/2020:13:46:04 +0630] "GET /Reading_URL_Parameters/Parameter.jsp HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [30/Jul/2020:13:46:10 +0630] "GET /Reading_URL_Parameters/Parameter.jsp?value1=btk HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [30/Jul/2020:13:46:21 +0630] "GET /Reading_URL_Parameters/Parameter.jsp?getvalue1=btk HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [30/Jul/2020:13:46:30 +0630] "GET /Reading_URL_Parameters/Parameter.jsp?getValue1=btk HTTP/1.1" 200 149
+127.0.0.1 - - [30/Jul/2020:13:46:50 +0630] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [30/Jul/2020:13:46:51 +0630] "GET /L33._Add_Hibernate_Support/ HTTP/1.1" 200 427
+0:0:0:0:0:0:0:1 - - [30/Jul/2020:13:46:56 +0630] "GET /L33._Add_Hibernate_Support/FilesHandler?action=listImages HTTP/1.1" 200 2959
+0:0:0:0:0:0:0:1 - - [30/Jul/2020:13:47:16 +0630] "POST /L33._Add_Hibernate_Support/FilesHandler HTTP/1.1" 200 2970

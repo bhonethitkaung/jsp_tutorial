@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="L15.JSTL set and remove tags">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="L15.JSTL_set_and_remove_tags"/>
+        <property name="java-output-path" value="/L15.JSTL set and remove tags/build/classes"/>
+    </wb-module>
+</project-modules>

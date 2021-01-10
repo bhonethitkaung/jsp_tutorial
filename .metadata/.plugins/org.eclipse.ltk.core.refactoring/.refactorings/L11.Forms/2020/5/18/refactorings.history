@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;countries&apos; in &apos;org.studyeasy.servlet.Controller.doGet(...)&apos; to &apos;languages&apos;&#x0D;&#x0A;- Original project: &apos;L11.Forms&apos;&#x0D;&#x0A;- Original element: &apos;org.studyeasy.servlet.Controller.doGet(HttpServletRequest, HttpServletResponse).countries&apos;&#x0D;&#x0A;- Renamed element: &apos;countries&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;countries&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;org.studyeasy.servlet{Controller.java[Controller~doGet~QHttpServletRequest;~QHttpServletResponse;@countries!1042!1101!1051!1059!\[QString;!0!false" name="languages" references="true" stamp="1588414664562" version="1.0"/>
+</session>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="5">
+    <list key="modules" value0="L6.Reading URL Parameters::org.eclipse.jst.jee.server:L6.Reading URL Parameters::jst.web::3.0" value1="L33. Add Hibernate Support::org.eclipse.jst.jee.server:L33. Add Hibernate Support::jst.web::3.0" value2="L31.Listing data on webpage::org.eclipse.jst.jee.server:L31.Listing data on webpage::jst.web::3.0" value3="L1.HelloServlet::org.eclipse.jst.jee.server:L1.HelloServlet::jst.web::3.0"/>
+  </server>
+</servers>
